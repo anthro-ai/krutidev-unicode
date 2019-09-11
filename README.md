@@ -1,6 +1,6 @@
 # `krutidev-unicode`
 
-Javascript port of [https://github.com/ltrc/kru2uni](`kru2uni`).
+Javascript port of [`kru2uni`](https://github.com/ltrc/kru2uni).
 
 ### Installation
 
